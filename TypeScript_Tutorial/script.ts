@@ -28,3 +28,9 @@
 // }
 // myFun("10", "40");
 // myFun("20", "50");
+
+
+
+//! Delet Kora dibo just test kortaci:
+// myFun("20", "50");
+// myFun("20", "50");

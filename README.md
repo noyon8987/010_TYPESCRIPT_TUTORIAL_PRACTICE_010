@@ -1,1 +1,1 @@
-# typescript_tutorial_practice
+# 010_TYPESCRIPT_TUTORIAL_PRACTICE_010
